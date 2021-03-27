@@ -8,5 +8,6 @@ public class Consumidor {
         Consumer<String> imprimirUmaFrase = System.out::println;
         Consumer<String> imprimirUmaFrase2 = frase -> System.out.println(frase);
         imprimirUmaFrase.accept("Hello word, i'am Diego Sena!!!");
+        imprimirUmaFrase2.accept("Imprimindo usando lambda...");
     }
 }
