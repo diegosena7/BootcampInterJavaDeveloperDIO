@@ -19,11 +19,14 @@ public class CalculadoraTest {
 		int soma = calc.somar("1+1+2");
 		assertEquals(4, soma);
 	}
-	
+
+	//Usamos o método estático mock ára "forçar" o retorno a ser igual ao esperado, independente o valor do parâmetro.,
 	@Test
 	public void testeSomarComMock() {
+		//Instancia o objeto calculadora usando o método estático mock
 		Calculadora calculadora = mock(Calculadora.class);
-		
+
+		//Quando (when) calculadora.somar então  (then) thenReturn 10
 		when(calculadora.somar("1+2")).thenReturn(10);
 		
 		int resultado = calculadora.somar("1+2");
