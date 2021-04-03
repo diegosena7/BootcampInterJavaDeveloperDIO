@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92bc8977-b8bd-4bf2-bb03-d18d272ac3bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/Java10_Java11/CollectionsExemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/Java10_Java11/InferenciaExemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/Java10_Java11/InferenciaLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/Java10_Java11/MetodosParaString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/arrays/ArraysMultidimensionais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/arrays/InstanciaArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/arrays/teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/arrays/testee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/ExemploList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/ExemploQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/ExemploSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/ExemploVector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/comparators/ComparatorsExemploList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/comparators/Estudante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/comparators/EstudanteOrdemIdadeReversaComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/map/ExemploHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/map/ExemploTreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/optional/ExemploOptional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/optional/ExemploOptionalEstados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/optional/ExemploOptionalPrimitivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/set/ExemploHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/set/ExemploLinkedHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/set/ExemploTreeSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/collections_streams/streams/ExemploStreamAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/http/ClientHttpExemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/http/HttpClientExemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/interfacesfuncionais/Consumidor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/interfacesfuncionais/FuncaoAltaOrdem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/interfacesfuncionais/Funcoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/interfacesfuncionais/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/interfacesfuncionais/Predicatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/interfacesfuncionais/Supridores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/iteracaoentrefuncoes/Iteracoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part01/paradigma/exemplo001/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part01/paradigma/exemplo001/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part01/paradigma/exemplo001/ExemploMetodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part01/paradigma/exemplo001/InstanciaCarro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part01/paradigma/exemplo001/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part02/construtores/exemplo001/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part02/construtores/exemplo001/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part02/construtores/exemplo002/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part02/construtores/exemplo002/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part02/construtores/exemplo003/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part02/construtores/exemplo003/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/encapsulamento/exemplo001/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/encapsulamento/exemplo001/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo001/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo001/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo001/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo001/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo002/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo002/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo002/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo002/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo003/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo003/Exemplo003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo003/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exemplo003/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exercicio/Analista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exercicio/ExecutaFuncionarios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exercicio/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exercicio/Gerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part03/heranca/exercicio/Supervisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploEquals/exemplo001/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploEquals/exemplo001/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploEquals/exemplo001/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploEquals/exemplo002/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploEquals/exemplo002/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploEquals/exemplo002/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploHashCode/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploHashCode/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploHashCode/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploSuper/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploSuper/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploThis/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploThis/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/orientacaoobjetos/part04/exemploThis/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/paradigafuncional/ComposicaoDeFuncoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/paradigafuncional/Funcao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/paradigafuncional/FuncaoComClasseAnonima.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/paradigafuncional/FuncaoComLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/paradigafuncional/FuncoesPuras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/paradigafuncional/Imutabilidade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/paradigafuncional/ParadigmaFuncional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/paradigafuncional/ParadigmaImperativo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/recursividade/FatorialRecursivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/recursividade/FatorialTailCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/threads/ParallelStreamExemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/threads/ThreadExemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaCalendar/Exemplo005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaCalendar/Exemplo006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaCalendar/Exemplo007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaDate/Exercicio001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaDateFormat/Exemplo008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaDateFormat/Exemplo009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../~$senvolvimento avançado em Java.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../~WRL0003.tmp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q1lDB3SJ98YjE69w2GLjj2aTP4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Teste1">
+    <configuration name="CollectionsExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.Java10_Java11.CollectionsExemplo" />
+      <module name="DigiOne-AulaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.Java10_Java11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InferenciaLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.Java10_Java11.InferenciaLambda" />
+      <module name="DigiOne-AulaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.Java10_Java11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetodosParaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.Java10_Java11.MetodosParaString" />
+      <module name="DigiOne-AulaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.Java10_Java11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.Teste" />
+      <module name="DigiOne-AulaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.Teste1" />
+      <module name="DigiOne-AulaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teste1" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.InferenciaLambda" />
+        <item itemvalue="Application.CollectionsExemplo" />
+        <item itemvalue="Application.MetodosParaString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92bc8977-b8bd-4bf2-bb03-d18d272ac3bb" name="Default Changelist" comment="" />
+      <created>1616254880684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616254880684</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1617067690324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617067690324" />
+    <state x="456" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617065044312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617065044312" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617067380997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617067380997" />
+    <state x="430" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1617282027207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617282027207" />
+    <state x="463" y="90" key="FileChooserDialogImpl" timestamp="1617385315260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="90" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617385315260" />
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom" timestamp="1617336309711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617336309711" />
+    <state width="1323" height="131" key="GridCell.Tab.0.center" timestamp="1617336309711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617336309711" />
+    <state width="1323" height="131" key="GridCell.Tab.0.left" timestamp="1617336309710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617336309710" />
+    <state width="1323" height="131" key="GridCell.Tab.0.right" timestamp="1617336309711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617336309711" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1616725946337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616725946337" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1616725946337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616725946337" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1616725946337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616725946337" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1616725946337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616725946337" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1616641454759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616641454759" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617064408369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617064408369" />
+    <state x="413" y="124" key="extract.method.dialog" timestamp="1617293215379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="124" key="extract.method.dialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617293215379" />
+    <state x="390" y="97" width="585" height="592" key="find.popup" timestamp="1617314399923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="97" width="585" height="592" key="find.popup/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617314399923" />
+    <state x="1777" y="115" width="617" height="631" key="find.popup/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1617041135221" />
+    <state x="274" y="0" key="new project wizard" timestamp="1617282126852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="0" key="new project wizard/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617282126852" />
+    <state x="383" y="111" key="refactoring.ChangeSignatureDialog" timestamp="1616808992558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="383" y="111" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616808992558" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1617293152538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1617293152538" />
+  </component>
+</project>
