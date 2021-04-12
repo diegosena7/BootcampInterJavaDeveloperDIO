@@ -191,6 +191,11 @@ public class BeerServiceTest {
         verify(beerRepository, times(1)).deleteById(expectedDeletedBeerDTO.getId());
     }
 
+    /**
+     * Método responsável por testar o incremento do estoque quando o método increment for chamado
+     * @throws BeerNotFoundException
+     * @throws BeerStockExceededException
+     */
     @Test
     void whenIncrementIsCalledThenIncrementBeerStock() throws BeerNotFoundException, BeerStockExceededException {
         //given
@@ -212,6 +217,10 @@ public class BeerServiceTest {
         assertThat(expectedQuantityAfterIncrement, lessThan(expectedBeerDTO.getMax()));
     }
 
+    /**
+     * Método responsável por testar o incremento no estoque, retorna uma exception caso o  valor informado
+     * para ser incrementtado seja maior que o valor em estoque máximo (50)
+     */
     @Test
     void whenIncrementIsGreatherThanMaxThenThrowException() {
         BeerDTO expectedBeerDTO = BeerDTOBuilder.builder().build().toBeerDTO();
@@ -223,6 +232,10 @@ public class BeerServiceTest {
         assertThrows(BeerStockExceededException.class, () -> beerService.increment(expectedBeerDTO.getId(), quantityToIncrement));
     }
 
+    /**
+     * Método responsável por testar quando o incremento com a soma do estoque for marior que o máximo (50)
+     * neste caso, deverá lançar uma exception
+     */
     @Test
     void whenIncrementAfterSumIsGreatherThanMaxThenThrowException() {
         BeerDTO expectedBeerDTO = BeerDTOBuilder.builder().build().toBeerDTO();
@@ -233,15 +246,15 @@ public class BeerServiceTest {
         int quantityToIncrement = 45;
         assertThrows(BeerStockExceededException.class, () -> beerService.increment(expectedBeerDTO.getId(), quantityToIncrement));
     }
-
-    @Test
-    void whenIncrementIsCalledWithInvalidIdThenThrowException() {
-        int quantityToIncrement = 10;
-
-        when(beerRepository.findById(INVALID_BEER_ID)).thenReturn(Optional.empty());
-
-        assertThrows(BeerNotFoundException.class, () -> beerService.increment(INVALID_BEER_ID, quantityToIncrement));
-    }
+//
+//    @Test
+//    void whenIncrementIsCalledWithInvalidIdThenThrowException() {
+//        int quantityToIncrement = 10;
+//
+//        when(beerRepository.findById(INVALID_BEER_ID)).thenReturn(Optional.empty());
+//
+//        assertThrows(BeerNotFoundException.class, () -> beerService.increment(INVALID_BEER_ID, quantityToIncrement));
+//    }
 //
 //    @Test
 //    void whenDecrementIsCalledThenDecrementBeerStock() throws BeerNotFoundException, BeerStockExceededException {

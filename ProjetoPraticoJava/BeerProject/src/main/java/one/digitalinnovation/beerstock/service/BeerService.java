@@ -11,6 +11,7 @@ import one.digitalinnovation.beerstock.repository.BeerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.swing.text.html.Option;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -61,10 +62,10 @@ public class BeerService {
 
     public BeerDTO increment(Long id, int quantityToIncrement) throws BeerNotFoundException, BeerStockExceededException {
         Beer beerToIncrementStock = verifyIfExists(id);
-        int quantityAfterIncrement = quantityToIncrement + beerToIncrementStock.getQuantity();
-        if (quantityAfterIncrement <= beerToIncrementStock.getMax()) {
+        int quantityAfterIncrement = quantityToIncrement + beerToIncrementStock.getMax();
+        if (quantityAfterIncrement <= beerToIncrementStock.getMax()){
             beerToIncrementStock.setQuantity(beerToIncrementStock.getQuantity() + quantityToIncrement);
-            Beer incrementedBeerStock = beerRepository.save(beerToIncrementStock);
+            Beer incrementedBeerStock =  beerRepository.save(beerToIncrementStock);
             return beerMapper.toDTO(incrementedBeerStock);
         }
         throw new BeerStockExceededException(id, quantityToIncrement);

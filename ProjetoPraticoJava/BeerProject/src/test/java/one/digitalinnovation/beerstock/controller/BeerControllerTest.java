@@ -4,6 +4,7 @@ import one.digitalinnovation.beerstock.builder.BeerDTOBuilder;
 import one.digitalinnovation.beerstock.dto.BeerDTO;
 import one.digitalinnovation.beerstock.dto.QuantityDTO;
 import one.digitalinnovation.beerstock.exception.BeerNotFoundException;
+import one.digitalinnovation.beerstock.exception.BeerStockExceededException;
 import one.digitalinnovation.beerstock.service.BeerService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -14,6 +15,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.data.web.PageableHandlerMethodArgumentResolver;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.servlet.view.json.MappingJackson2JsonView;
@@ -175,6 +177,10 @@ public class BeerControllerTest {
                 .andExpect(status().isOk());
     }
 
+    /**
+     * Método responsável por testar a chamada do método DELETE com o parâmetro de Id válido
+     * @throws Exception
+     */
     @Test
     void whenDELETEIsCalledWithValidIdThenNoContentStatusIsReturned() throws Exception {
         // given
@@ -189,6 +195,11 @@ public class BeerControllerTest {
                 .andExpect(status().isNoContent());
     }
 
+    /**
+     * Método resonsável por testar o método DELETE quando um Id inválido é passado como parâmetro
+     * neste caso deverá retornar status não encontrado
+     * @throws Exception
+     */
     @Test
     void whenDELETEIsCalledWithInvalidIdThenNotFoundStatusIsReturned() throws Exception {
         //when
@@ -200,8 +211,12 @@ public class BeerControllerTest {
                 .andExpect(status().isNotFound());
     }
 
+    /**
+     * Método responsável testar a chamada do método PatchMapping, deverá retornar status OK
+     * @throws Exception
+     */
     @Test
-    void whenPATCHIsCalledToIncrementDiscountThenOKstatusIsReturned() throws Exception {
+    void whenPATCHIsCalledToIncrementDiscountThenOKStatusIsReturned() throws Exception {
         QuantityDTO quantityDTO = QuantityDTO.builder()
                 .quantity(10)
                 .build();
@@ -233,7 +248,7 @@ public class BeerControllerTest {
 //
 //        mockMvc.perform(patch(BEER_API_URL_PATH + "/" + VALID_BEER_ID + BEER_API_SUBPATH_INCREMENT_URL)
 //                .contentType(MediaType.APPLICATION_JSON)
-//                .con(asJsonString(quantityDTO))).andExpect(status().isBadRequest());
+//                .content(asJsonString(quantityDTO))).andExpect(status().isBadRequest());
 //    }
 
 //    @Test
