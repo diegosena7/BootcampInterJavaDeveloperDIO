@@ -20,39 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3713bc75-48b7-4756-86b0-45f4a32d0895" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/postman/Beer API.postman_collection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/BeerstockApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/controller/BeerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/controller/BeerControllerDocs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/dto/BeerDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/dto/QuantityDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/entity/Beer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/enums/BeerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/exception/BeerAlreadyRegisteredException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/exception/BeerNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/exception/BeerStockExceededException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/mapper/BeerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/repository/BeerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/java/one/digitalinnovation/beerstock/service/BeerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/test/java/one/digitalinnovation/beerstock/BeerstockApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/test/java/one/digitalinnovation/beerstock/builder/BeerDTOBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/test/java/one/digitalinnovation/beerstock/controller/BeerControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/test/java/one/digitalinnovation/beerstock/service/BeerServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectBeer/src/test/java/one/digitalinnovation/beerstock/utils/JsonConvertionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../~$ringboot.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../~WRL0005.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaOO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Springboot.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desenvolvimento avançado em Java.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Desenvolvimento avançado em Java.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desenvolvimento básico em Java.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Desenvolvimento básico em Java.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +73,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
