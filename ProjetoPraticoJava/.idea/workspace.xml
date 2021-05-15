@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3713bc75-48b7-4756-86b0-45f4a32d0895" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Desenvolvimento avançado em Java.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Desenvolvimento avançado em Java.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desenvolvimento básico em Java.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Desenvolvimento básico em Java.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProjectBeer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
