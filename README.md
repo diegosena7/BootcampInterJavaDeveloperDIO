@@ -8,6 +8,6 @@ Tópicos de estudo:
 * Java Orientação a Objetos
 * Springboot
 * JPA/JDBC
-* icrosserviços
+* Microsserviços
 * Kubernates
 * Quarkus_Kafka
